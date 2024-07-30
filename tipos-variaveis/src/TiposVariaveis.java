@@ -1,4 +1,4 @@
-public class App {
+public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         // conhecer os tipos primitivos
         // conhecer a classe String, que representa os textos na aplicação
