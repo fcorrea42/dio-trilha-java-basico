@@ -5,6 +5,8 @@ public class CaixaEletronico {
 
         if(valorSolicitado < saldo)
             saldo = saldo - valorSolicitado;
+        else
+            System.out.println("Saldo insuficiente!");
 
         System.out.println(saldo);
     }
