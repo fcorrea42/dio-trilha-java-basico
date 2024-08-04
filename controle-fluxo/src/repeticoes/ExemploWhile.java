@@ -1,3 +1,4 @@
+package repeticoes;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class ExemploWhile {

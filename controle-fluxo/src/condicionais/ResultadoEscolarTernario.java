@@ -1,3 +1,4 @@
+package condicionais;
 public class ResultadoEscolarTernario {
     public static void main(String[] args) {
         int nota = 4;
